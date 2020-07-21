@@ -10,4 +10,4 @@ The frequency of Ty1 in this dataset can be seen here:
 
 <img src="https://github.com/MurrellGroup/Ty1/blob/master/Enrichment.png" width="400">
 
-We are aware that there may be other nanobodies within this dataset. We suggest you contact us before trying to identify them.
+We are aware that there may be other useful anti-SARS-CoV-2 nanobodies within this dataset. We suggest you contact us before trying to identify them.
